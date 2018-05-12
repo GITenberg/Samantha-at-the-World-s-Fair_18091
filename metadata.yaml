@@ -1,0 +1,40 @@
+_repo: Samantha-at-the-World-s-Fair_18091
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grimm, Constantin de
+    aliases:
+    - De Grimm, Constantin
+    - Grimm, Baron de
+    - Grimm, C. de (Constantin de)
+    birthdate: 1845
+    deathdate: 1898
+    gutenberg_agent_id: '7801'
+    url: http://www.gutenberg.org/2009/agents/7801
+covers:
+- cover_type: archival
+  image_path: 18091-h/images/cover_and_spine.jpg
+creator:
+  author:
+    agent_name: Holley, Marietta
+    alias: Josiah Allen's wife
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.) -- Fiction'
+title: Samantha at the World's Fair
+url: http://www.gutenberg.org/ebooks/18091

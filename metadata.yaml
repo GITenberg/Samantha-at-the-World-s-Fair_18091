@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: http://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18091#Samantha-at-the-World-s-Fair
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
